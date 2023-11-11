@@ -1,0 +1,2 @@
+*** Nombre del producto: tijera , unidades ingresadas: 30
+*** Nombre del producto: cuaderno , unidades ingresadas: 25
