@@ -1,0 +1,4 @@
+Mostrando datos de la Institución Educativa
+
+NOMBRE:CARLOS DIAZ DNI:11222111 ESPECIALIDAD:Programación  N°EMPLEADO DOCENTE: 2000
+
