@@ -1,0 +1,2 @@
+*** Nombre del producto: lapiceras de tinta , unidades ingresadas: 23 , precio unitario: 3400.0
+*** Nombre del producto: cuaderno a4 , unidades ingresadas: 1 , precio unitario: 1212.0
